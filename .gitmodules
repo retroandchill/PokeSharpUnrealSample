@@ -1,6 +1,6 @@
 [submodule "Plugins/UnrealSharp"]
 	path = Plugins/UnrealSharp
-	url = https://github.com/UnrealSharp/UnrealSharp.git
+	url = https://github.com/retroandchill/UnrealSharp.git
 [submodule "Plugins/PokeSharp"]
 	path = Plugins/PokeSharp
 	url = https://github.com/retroandchill/PokeSharpUE.git
